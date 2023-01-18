@@ -1,0 +1,23 @@
+.div1{
+    /* background-color: azure;
+    height: 500px;
+    width: 70%;
+    max-width: 500px ; */
+    /* max-height: ;
+    min-width: ;
+    min-height: ;
+    */
+    /*padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+    padding-right: 5%; */
+    padding: 25px 50px 30px 70px;
+    border: 1px solid black;
+
+}
+#marg{
+    margin-top: 50px;
+}
+#colsp{
+    margin-bottom: 30px;
+}

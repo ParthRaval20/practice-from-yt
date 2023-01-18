@@ -1,0 +1,11 @@
+#bg{
+    /* background-image: url(img/user.jpg); */
+    /* background-repeat: repeat; */
+    /* background-size: cover; */
+    /* background-position: 40px 20px; */
+    /* background-attachment: fixed; */
+    background: #fff url(img/user.png) no-repeat fixed 5% 10%;
+}
+/* body{
+   background-color: yellow;
+} */

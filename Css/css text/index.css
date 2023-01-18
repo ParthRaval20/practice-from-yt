@@ -1,0 +1,19 @@
+#text{
+    width: 200px;
+    border: 1px solid black;
+    color: blue;
+    text-align: justify;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    line-height: 30px;
+    text-indent: 30px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    white-space: normal;
+    word-wrap: break-word;
+    writing-mode: vertical-rl;
+}
+/* #shadow{
+    font-size: 30px;
+    text-shadow: 5px -10px 6px red ;
+} */
