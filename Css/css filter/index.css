@@ -1,0 +1,13 @@
+img{
+    /* filter: blur(10px); */
+    filter: brightness(50%);
+    /* filter: contrast(70%); */
+    /* filter: drop-shadow(8px 8px 5px black); */
+    /* filter: grayscale(100%); */
+    /* filter: hue-rotate(90deg); */
+    /* filter: invert(50%); */
+    /* filter: opacity(30%); */
+    /* filter: saturate(30%); */
+    /* filter: sepia(30%); */
+    /* we can use multipal filter at a time  */
+}
