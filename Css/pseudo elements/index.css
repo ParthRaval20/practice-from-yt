@@ -1,0 +1,20 @@
+/* p::first-letter{
+    font-size: 35px;
+    color: red ;
+} */  /*this for letter*/
+
+p::first-line{
+    font-size: 35px;
+    color: red;
+}
+::selection{
+    color: red;
+    background-color: yellow;
+}
+h1::before{
+    content: url(arrow.png); /*this is for before*/
+}
+h1::after{
+    content: url(arrow.png); /*this is for before*/
+}
+
