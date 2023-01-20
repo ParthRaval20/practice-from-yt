@@ -1,0 +1,49 @@
+@keyframes changecolor{
+    /* from{
+        background-color: red;
+    }
+    to{
+        background-color: yellow;
+    } */
+    0%{
+        background-color: red;
+    }
+    25%{
+        /* background-color: aqua; */
+        width: 300px;
+    }
+    50%{
+        background-color: green;
+    }
+    75%{
+        /* background-color: orange; */
+        width: 200px;
+    }
+    100%{
+        background-color: yellow;
+    }
+}
+
+
+#animate{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    animation-name: changecolor;
+    animation-duration: 4s;
+    /* animation-delay: 2s; */
+    animation-iteration-count: infinite;
+    /* animation-direction: alternate; */
+    animation-timing-function: ease-in-out;
+}
+#animate2{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    animation-name: changecolor;
+    animation-duration: 4s;
+    /* animation-delay: 2s; */
+    animation-iteration-count: infinite;
+    /* animation-direction: reverse; */
+    animation-timing-function: ease;
+}
